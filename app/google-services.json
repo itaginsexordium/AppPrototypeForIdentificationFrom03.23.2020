@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034389655741",
+    "firebase_url": "https://qiwid-13bdb.firebaseio.com",
+    "project_id": "qiwid-13bdb",
+    "storage_bucket": "qiwid-13bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034389655741:android:43f5fca565590cc188e7d4",
+        "android_client_info": {
+          "package_name": "com.kg.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034389655741-sn6ep8a7qjeam71jqhl73qii8mlsqs8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kg.myapplication",
+            "certificate_hash": "0f122657a8311ed521d9ed9170a0700224f31aeb"
+          }
+        },
+        {
+          "client_id": "1034389655741-179rkqt9egsrgebtvolbfpis2pksocjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGklfuw2xQB3DR_v7pewOI7KlNexCi74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034389655741-179rkqt9egsrgebtvolbfpis2pksocjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
